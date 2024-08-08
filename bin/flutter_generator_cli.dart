@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:flutter_generator_cli/flutter_generator_cli.dart';
 
 

@@ -11,7 +11,7 @@ dependencies:
   # path: ^1.8.0
   args: ^2.0.0
 executables:
-  flutter_gen: 
+  flutter_generator_cli:
   
 
 dev_dependencies:
